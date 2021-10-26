@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.github.mperezi.test.randomizer"},{"l":"com.github.mperezi.test.randomizer.custom"},{"l":"com.github.mperezi.test.randomizer.matchers"}];updateSearchResults();
